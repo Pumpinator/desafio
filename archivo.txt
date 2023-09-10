@@ -1,0 +1,4 @@
+const sumarNumeros = (a, b) -> a + b;
+const restarNumeros = (a, b) -> a - b;
+const multiplicarNumeros = (a, b) -> a * b;
+const dividirNumeros = (a, b) -> a / b;
